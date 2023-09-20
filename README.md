@@ -16,3 +16,8 @@ This repository contains the DAG built for learning and practice purposes.
 * To stop the containers use `docker-compose down`.
 * To restart Airflow first use `docker-compose down` and then use `docker-compose up -d`.
 * To remove the containers or if any error related to upgarding database use `docker volume prune` and then `docker-compose up -d`.
+
+# Airflow Login
+
+- Username: Airflow
+- Password: Airflow
