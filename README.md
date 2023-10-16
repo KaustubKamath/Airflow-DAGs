@@ -19,5 +19,5 @@ This repository contains the DAG built for learning and practice purposes.
 
 # Airflow Login
 
-- Username: Airflow
-- Password: Airflow
+- Username: airflow
+- Password: airflow
